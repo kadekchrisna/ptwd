@@ -1,0 +1,28 @@
+.background {
+    background-color: blue
+} 
+
+body {
+    margin: '5%';
+    font-family: sans-serif
+
+}
+th { font-size: 11px; }
+td { font-size: 11px; }
+.big-col {
+    width: 30px !important;
+}
+ 
+table#example{
+    table-layout:fixed;
+}
+footer {
+    background-color: #8A0707;
+    height: 40px;
+}
+.dot {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    display: inline-block;
+  }
